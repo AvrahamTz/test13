@@ -3,7 +3,6 @@ body{
     background-image: linear-gradient(to right,rgb(173, 100, 173),rgb(231, 167, 47));
     height: 372px;
     width: 760px;
-    border: 2px solid black;
     font-family: 'Poppins', sans-serif;
 }
 
